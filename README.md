@@ -1,5 +1,10 @@
 # 🏏 IPL Dashboard - Power BI Project
 
+## 📸 IPL Dashboard Preview
+
+![IPL Dashboard](ipl.png)
+
+
 This project presents an IPL Dashboard built using Power BI to explore match details, team performances, and trends from 2008 to 2023.
 
 ## 📁 File
